@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="dark_blue">#03045E</color>
     <color name="bg_blue">#48CAE4</color>
+    <color name="bg_btn_blue">#90E0EF</color>
+    <color name="faded_blue">#0096c7</color>
 
 </resources>
